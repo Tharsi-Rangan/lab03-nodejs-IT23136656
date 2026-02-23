@@ -1,0 +1,19 @@
+{
+  "name": "lab03-nodejs-it23136656",
+  "version": "1.0.0",
+  "description": "LAB 03 NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharsi-Rangan/lab03-nodejs-IT23136656.git"
+  },
+  "author": "Tharsiga Ranganathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharsi-Rangan/lab03-nodejs-IT23136656/issues"
+  },
+  "homepage": "https://github.com/Tharsi-Rangan/lab03-nodejs-IT23136656#readme"
+}
